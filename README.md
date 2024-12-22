@@ -7,7 +7,7 @@ Kocaeli Üniversitesi Mühendislik Fakültesi Yazılım Mühendisliği 24-25 Pro
 - [Amaç](https://github.com/metehansenyer/KOU-YZM209-CSGameProject-Spacewar?tab=readme-ov-file#amaç)
 - [Projeden Beklenenler](https://github.com/metehansenyer/KOU-YZM209-CSGameProject-Spacewar?tab=readme-ov-file#projeden-beklenenler)
 - [Karşılanan Beklentiler](https://github.com/metehansenyer/KOU-YZM209-CSGameProject-Spacewar?tab=readme-ov-file#karşılanan-beklentiler)
-- [İndirme ve Çalıştırma](https://github.com/metehansenyer/KOU-YZM209-CSGameProject-Spacewar?tab=readme-ov-file#indirme-ve-çalıştırma)
+- [İndirme ve Çalıştırma](https://github.com/metehansenyer/KOU-YZM209-CSGameProject-Spacewar?tab=readme-ov-file#i%CC%87ndirme-ve-%C3%A7al%C4%B1%C5%9Ft%C4%B1rma)
 - [Teşekkürler](https://github.com/metehansenyer/KOU-YZM209-CSGameProject-Spacewar?tab=readme-ov-file#teşekkürler)
 - [Oynanış Videosu](https://github.com/metehansenyer/KOU-YZM209-CSGameProject-Spacewar?tab=readme-ov-file#oynan%C4%B1%C5%9F-videosu)
 
