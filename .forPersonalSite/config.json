@@ -1,6 +1,0 @@
-{
-  "title": "Game Project: Spacewar",
-  "description": "Kocaeli Üniversitesi Mühendislik Fakültesi Yazılım Mühendisliği 24-25 Programlama Laboratuvarı III Projesi GitHub sayfası. Spacewar Oyunu.",
-  "banner": "https://github.com/metehansenyer/KOU-YZM209-CSGameProject-Spacewar/blob/main/KOU-YZM209-CSGameProject-Spacewar/resources/image/gameBackground.png?raw=true",
-  "technologies": ["C#", "Raylib"]
-}
